@@ -8,9 +8,9 @@
 #### Key Skills: 👯
 
 * _Linux, *BSD, LAMP/LEMP, RPM/DEB, ..._
-* _Scripting on Bash/Python/Perl/VBScript/Java/..._
+* _Scripting/automation on Bash/Python/Perl/VBScript/Java/C++/..._
 * _AWS_
-* _Docker, LXC, OpenVZ_
+* _Docker, LXC/LXD, OpenVZ, Jails_
 * _Ansible, Rexify_
 * _Git, Mercurial, SVN, CVS_
 * _Zabbix, Collectd, ELK/EFK/OpenSearch_
