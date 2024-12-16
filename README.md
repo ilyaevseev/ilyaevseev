@@ -7,8 +7,8 @@
 
 #### Key Skills: 👯
 
-* _Linux, *BSD, LAMP, LEMP_
-* _Scripting on Bash/Python/Perl/VBScript/..._
+* _Linux, *BSD, LAMP/LEMP, RPM/DEB, ..._
+* _Scripting on Bash/Python/Perl/VBScript/Java/..._
 * _AWS_
 * _Docker, LXC, OpenVZ_
 * _Ansible, Rexify_
