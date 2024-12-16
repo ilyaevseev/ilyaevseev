@@ -15,7 +15,7 @@
 * _Git, Mercurial, SVN, CVS_
 * _Zabbix, Collectd, ELK/EFK/OpenSearch_
 * _Mikrotik, D-Link, L2/L3/L3+ networking_
-* _MySQL, Postgres, Cassandra, Kafka, Consul, Vault, Redis/Kvrocks/KeyDB, ..._
+* _MySQL, Postgres, Cassandra, Kafka, Consul, Vault, Redis/Kvrocks/KeyDB/ARDB, ..._
 
 #### Contacts: 📫
 
