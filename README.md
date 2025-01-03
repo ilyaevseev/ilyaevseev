@@ -2,7 +2,7 @@
 
 #### Professional objectives: 🔭
 
-* _Devops, Linux server admin, Automation engineer_
+* _Devops, Linux server admin, automation engineer_
 * _C developer_
 
 #### Key Skills: 👯
@@ -11,11 +11,13 @@
 * _Scripting/automation on Bash/Python/Perl/VBScript/Java/C++/..._
 * _AWS_
 * _Docker, LXC/LXD, OpenVZ, Jails_
-* _Ansible, Rexify_
+* _Ansible, Chef, Rexify_
 * _Git, Mercurial, SVN, CVS_
-* _Zabbix, Collectd, ELK/EFK/OpenSearch_
+* _Zabbix, Collectd, Prometheus, Grafana_
+* _ElasticSearch, OpenSearch, Kibana, Logstash, Fluentd_
 * _Mikrotik, D-Link, L2/L3/L3+ networking_
-* _MySQL, Postgres, Cassandra, Kafka, Consul, Vault, Redis/Kvrocks/KeyDB/ARDB, ..._
+* _MySQL, Postgres, Cassandra, Kafka, Zookeeper, Consul, Vault_
+* _Redis OSS, RedisStack, ElastiCache, Kvrocks, KeyDB, ARDB_
 
 #### Contacts: 📫
 
