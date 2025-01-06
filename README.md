@@ -7,17 +7,20 @@
 
 #### Key Skills: 👯
 
-* _Linux, *BSD, LAMP/LEMP, RPM/DEB, ..._
-* _Scripting/automation on Bash/Python/Perl/VBScript/Java/C++/..._
-* _AWS_
-* _Docker, LXC/LXD, OpenVZ, Jails_
+* _Linux, FreeBSD, Windows Server_
+* _Scripting/automation: Bash, Python, Perl, Groovy, VBScript, Lua, Java, C++, ..._
+* _AWS: EC2, VPC, RDS, Route53_
+* _Containers: Docker, LXC/LXD, OpenVZ, Jails_
+* _Virtualization: KVM, Xen, ESXi, Hyper-V, Virtualbox_
 * _Ansible, Chef, Rexify_
-* _Git, Mercurial, SVN, CVS_
-* _Zabbix, Collectd, Prometheus, Grafana_
-* _ElasticSearch, OpenSearch, Kibana, Logstash, Fluentd_
-* _Mikrotik, D-Link, L2/L3/L3+ networking_
-* _MySQL, Postgres, Cassandra, Kafka, Zookeeper, Consul, Vault_
-* _Redis OSS, RedisStack, ElastiCache, Kvrocks, KeyDB, ARDB_
+* _Source control: Git, Mercurial, SVN, CVS_
+* _CI/CD: Gitlab, Jenkins_
+* _Packaging: RPM/YUM, DEB/APT, Launchpad, Sisyphus_
+* _Monitoring: Zabbix, Collectd, Prometheus, Grafana_
+* _Logs: ElasticSearch, OpenSearch, Kibana, Logstash, Fluentd_
+* _Networking: Mikrotik, D-Link, L2/L3/L3+ management_
+* _Databases: MySQL, Postgres, Cassandra, Kafka, Zookeeper, Consul, Vault_
+* _K/V: Redis OSS, RedisStack, ElastiCache, Kvrocks, KeyDB, ARDB_
 
 #### Contacts: 📫
 
